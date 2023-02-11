@@ -1,4 +1,4 @@
-# command_line_game
+# Command Line Game
 Simple 3D shooter game on the Command Prompt in Windows using only ASCII characters.
 
 ## Important
@@ -14,6 +14,9 @@ A = Turn Left, D = Turn Right, W = Walk Forwards, S = Walk Backwards
 	to more optimally search the map space
 3) Add bullets!
 4) Add bad guys!
+
+## Preview
+to be added soon
 
 ## Source
 Built on top of [@Javidx9's](https://www.youtube.com/@javidx9) code. <br>
