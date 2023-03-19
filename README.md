@@ -16,7 +16,7 @@ A = Turn Left, D = Turn Right, W = Walk Forwards, S = Walk Backwards
 4) Add bad guys!
 
 ## Preview
-to be added soon
+![command_line](https://user-images.githubusercontent.com/69943504/226190243-6a10f79b-94e7-4c35-a16d-2eb678dd762b.gif)
 
 ## Source
 Built on top of [@Javidx9's](https://www.youtube.com/@javidx9) code. <br>
